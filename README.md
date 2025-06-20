@@ -1,5 +1,7 @@
 # Errodator
 
+[![npm version](https://img.shields.io/npm/v/errodator.svg)](https://www.npmjs.com/package/errodator)
+
 **Errodator** is a lightweight, flexible error handling library for JavaScript, designed to streamline safe and scalable error processing in asynchronous applications. It lets you distinguish between custom errors (`Errod`) and system errors (`Error`) with fully customizable handlers, ensuring you avoid exposing sensitive stack traces while keeping your code DRY. Errodator works seamlessly with any JavaScript framework (Express, Koa, Fastify) or vanilla Node.js, giving you complete control over error handling, logging, and responses.
 
 ## Why Errodator?

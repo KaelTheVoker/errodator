@@ -1,0 +1,26 @@
+{
+  "name": "errodator",
+  "version": "1.0.0",
+  "description": "Flexible and secure error handling library for JavaScript",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node Test.js"
+  },
+  "keywords": [
+    "error-handling",
+    "javascript",
+    "async",
+    "security"
+  ],
+  "author": "KaelTheVoker <RyabchunovD@gmail.com>",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/your-username/errodator.git"
+  },
+  "bugs": {
+    "url": "https://github.com/your-username/errodator/issues"
+  },
+  "homepage": "https://github.com/your-username/errodator#readme"
+}

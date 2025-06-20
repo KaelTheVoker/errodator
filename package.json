@@ -1,6 +1,6 @@
 {
   "name": "errodator",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Flexible and secure error handling library for JavaScript",
   "main": "index.js",
   "type": "module",
@@ -17,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/your-username/errodator.git"
+    "url": "git+https://github.com/KaelTheVoker/errodator.git"
   },
   "bugs": {
-    "url": "https://github.com/your-username/errodator/issues"
+    "url": "https://github.com/KaelTheVoker/errodator/issues"
   },
-  "homepage": "https://github.com/your-username/errodator#readme"
+  "homepage": "https://github.com/KaelTheVoker/errodator#readme"
 }

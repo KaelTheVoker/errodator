@@ -279,7 +279,7 @@ try {
 - **No Cause Logged**: Verify the error has a `cause` property and access it in `logger` or `onInternalError`.
 
 ## Contributing
-Contributions are welcome! Open an issue or pull request on [GitHub](https://github.com/your-repo/errodator). Future ideas:
+Contributions are welcome! Open an issue or pull request on [GitHub](https://github.com/KaelTheVoker/errodator). Future ideas:
 - Framework-specific modules (e.g., `express-errodator`).
 - Preset configurations.
 - Support for multiple error types.

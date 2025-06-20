@@ -1,6 +1,6 @@
 {
   "name": "errodator",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Flexible and secure error handling library for JavaScript",
   "main": "index.js",
   "type": "module",
